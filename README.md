@@ -20,8 +20,8 @@ Une stack de développement complète pour les applications Laravel (backend) et
 
 1. Clonez ce dépôt:
    ```bash
-   git clone <url-du-repo>
-   cd <nom-du-repo>
+   git clone https://github.com/fautant/DockerTP.git
+   cd DockerTP
    ```
 
 2. Construisez l'image Docker:
